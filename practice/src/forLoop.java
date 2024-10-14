@@ -34,7 +34,7 @@ public class forLoop
       for (Student stud: students)
       {
 
-          System.out.println(stud.name+" "+stud.marks);
+          System.out.println(stud.name+"123 "+stud.marks);
       }
     }
 }
